@@ -19,3 +19,4 @@ steps:
   displayName: 'Run a multi-line script'
 
 - script: cat content1
+  displayName: out of GH file content
